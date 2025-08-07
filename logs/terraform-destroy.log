@@ -1,0 +1,6 @@
+docker_container.nginx_container: Destroying... [id=3cde1...]
+docker_container.nginx_container: Destruction complete after 1s
+docker_image.nginx_image: Destroying... [id=sha256:a29e0a...]
+docker_image.nginx_image: Destruction complete after 1s
+
+Destroy complete! Resources: 2 destroyed.
