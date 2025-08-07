@@ -107,6 +107,6 @@ terraform destroy -auto-approve | tee logs/terraform-destroy.log
 
 ## 👨‍💻 Author
 Madhukar Sammeta  
-Full Stack Developer & DevOps Engineer  
-GitHub: https://github.com/  
-LinkedIn: https://linkedin.com/
+DevOps Engineer  
+GitHub: https://github.com/iammadhukar177 
+LinkedIn: https://linkedin.com/in/Madhukar-Sammeta
